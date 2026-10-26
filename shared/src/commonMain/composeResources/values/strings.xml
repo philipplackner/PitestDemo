@@ -1,0 +1,13 @@
+<resources>
+    <string name="error_empty_expression">Enter an expression</string>
+    <string name="error_unexpected_character">Unexpected character \"%1$s\"</string>
+    <string name="error_invalid_number">Invalid number \"%1$s\"</string>
+    <string name="error_unexpected_token">Unexpected \"%1$s\"</string>
+    <string name="error_unexpected_end">Expression is incomplete</string>
+    <string name="error_mismatched_parenthesis">Mismatched parenthesis</string>
+    <string name="error_division_by_zero">Cannot divide by zero</string>
+    <string name="error_overflow">Result is too large</string>
+    <string name="error_undefined_result">Result is undefined</string>
+    <string name="cd_clear">Clear</string>
+    <string name="cd_delete">Delete last character</string>
+</resources>
